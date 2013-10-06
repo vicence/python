@@ -12,4 +12,6 @@ test
 #测试一次git commit -a 选项有用
 ###
 # git commit -a 选项无法替代 -m 选项
+### 在github上会隐藏么
+# 为什么有三个#的行在github上自动隐藏呢
 
