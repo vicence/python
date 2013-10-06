@@ -8,3 +8,8 @@ test
 # 在提交文件到分支py git push origin py 
 #============
 # 为什么确认文件没有-m选项是不行的呢
+###
+#测试一次git commit -a 选项有用
+###
+# git commit -a 选项无法替代 -m 选项
+
