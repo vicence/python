@@ -6,3 +6,5 @@ test
 # 在添加文件 git add README.md
 # 再确认文件 git commit -m '添加注释'
 # 在提交文件到分支py git push origin py 
+#============
+# 为什么确认文件没有-m选项是不行的呢
